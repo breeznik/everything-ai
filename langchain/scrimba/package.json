@@ -1,0 +1,24 @@
+{
+  "name": "scrimba",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type":"module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "packageManager": "pnpm@10.11.0",
+  "dependencies": {
+    "@langchain/community": "^0.3.45",
+    "@langchain/core": "^0.3.58",
+    "@langchain/openai": "^0.5.12",
+    "@supabase/supabase-js": "^2.50.0",
+    "ai": "^4.3.16",
+    "dotenv": "^16.5.0",
+    "langchain": "^0.3.27",
+    "postgres": "^3.4.7"
+  }
+}
