@@ -1,4 +1,3 @@
-import { tool } from "@langchain/core/tools";
 import z, { object } from "zod";
 
 const multiply = tool(
