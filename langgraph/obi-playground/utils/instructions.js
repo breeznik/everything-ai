@@ -160,6 +160,7 @@ You are collecting contact information for a lounge booking. The following field
     "email": string | null,
     "phone": string | null
   }
+
 }
 
 🛑 STRICT RULES:

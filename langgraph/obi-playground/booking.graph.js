@@ -245,7 +245,8 @@ graph.addNode("scheduleinfo", infoCollector);
 graph.addNode("contactinfo", contactHandler);
 graph.addNode("setcontact", setContactStep);
 graph.addNode("productend", productSuccess);
-
+graph.addNode("paymenthadnler", paymnenthadnler);
+graph.addNode("callapayment", callpayment);
 graph.addConditionalEdges(START, (state) => {
   return currentNode || "classify";
 });
@@ -265,6 +266,12 @@ graph.addConditionalEdges("scheduleinfo", (state) => {
 
 graph.addConditionalEdges("contactinfo", (state) => {
   return state.done ? "setcontact" : "contactinfo";
+});
+
+graph.addEdge("setcontact", "paymnethadnler");
+
+graph.addConditionalEdges("paymenthadlnler", (state) => {
+  state.done ? "callpaymnet" : "paymenthadlnler";
 });
 
 graph.addEdge("general", END);

@@ -1,0 +1,5 @@
+{
+  "graphs": {
+    "default": "./revised.workflow.js:compiledGraph"
+  }
+}
