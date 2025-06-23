@@ -1,0 +1,14 @@
+Your converstation Log:
+You: yo it's nikhil here 
+AI: Hey Nikhil! How can I assist you today? 
+
+You: how you oding 
+AI: I'm just a computer program, so I don't have feelings, but I'm here and ready to help you! How are you doing? 
+
+You: ok 
+AI: If there's anything you need help with or want to talk about, feel free to let me know! 
+
+You: eixt 
+AI: It seems like you might want to end our conversation. If that's the case, feel free to come back anytime you have more questions or need assistance. Have a great day! 
+
+End of the conversation
