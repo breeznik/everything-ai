@@ -1,0 +1,45 @@
+LOGLINE: In a world where magic is woven from sound, a deaf artificer discovers a forbidden form of power that relies on silence, attracting the attention of an ancient order sworn to prevent its return.
+1. WORLD LORE: THE REALM OF SONORIA
+
+    The Aetherium: Sonoria is a world saturated with a magical energy field known as the Aetherium. This field is intrinsically linked to sonic vibrations. All life and matter resonate with a unique frequency, a "True-Tone." The Aetherium is not visible but can be "felt" by those with sensitivity as a constant, low hum pervading all existence.
+    The Weave of Song: Magic, known as "Song-Weaving," is the act of manipulating the Aetherium by producing precise sonic frequencies. Weavers use their voices, specialized instruments (like Resonance Forks or Harmonic Lutes), or innate abilities to create specific tones that shape reality. The complexity of a spell is determined by the intricacy of its melody and the purity of its tones.
+    The Great Silence (Historical Event): Approximately 800 years ago, a cataclysmic event known as the Great Silence occurred. A faction of mages, the "Silent Monks of Hysh," attempted to access a different aspect of the Aetherium—not through sound, but through its absolute absence. Their ritual failed catastrophically, creating a "Sonic Void" that erased the True-Tones of an entire continent, turning it into a lifeless, grey wasteland known as the Ash-Lands. Sound does not travel in the Ash-Lands, and life cannot exist there.
+    The Concordance of Resonators: Following the Great Silence, the dominant governing body, the Concordance of Resonators, outlawed all research into "Null-Weaving" (magic of silence). They established the "Listeners," an order of monks and spies dedicated to hunting down and eliminating any resurgence of this forbidden art. The Listeners are trained to detect minute interruptions in the Aetherium's hum.
+
+2. MAGIC SYSTEM: SONG-WEAVING & NULL-WEAVING
+
+    Song-Weaving (The Common Magic):
+        Principle: Manipulation of the Aetherium through harmonic and dissonant frequencies.
+        Disciplines:
+            Harmonics: The art of creation and healing. Weaving consonant chords to mend wounds (Mending-Chant), grow plants (Growth-Hymn), or reinforce structures (Stone-Canticle). Requires pure, stable tones.
+            Dissonance: The art of destruction and alteration. Using jarring, clashing frequencies to shatter rock (Fracturing-Shriek), confuse minds (Discordant-Wail), or create illusions (Phantom-Note). Requires precise control over chaotic frequencies.
+        Limitation: Requires a medium for sound to travel (air, water, earth). Cannot be used in a vacuum or areas of magical silence. Power is proportional to the amplitude and clarity of the sound produced.
+
+    Null-Weaving (The Forbidden Magic):
+        Principle: Manipulation of the Aetherium by creating pockets of perfect, unnatural silence. This is not the absence of sound, but an active "anti-frequency" that cancels out True-Tones.
+        Abilities:
+            Tone-Shattering: By creating a focused field of silence around an object or person, a Null-Weaver can erase its True-Tone, causing it to crumble into inert, grey dust. This is the feared ability used in the Great Silence.
+            Whisper-Walking: The ability to move without making any sound, becoming undetectable to even the most sensitive Listeners.
+            Aetheric Void: Creating a sphere of absolute silence that can nullify incoming Song-Weaving spells, effectively acting as a counter-magic.
+        Limitation: Extremely dangerous and unstable. A loss of focus can cause the silence to collapse inward, harming the weaver. Its practice leaves a "scar" on the Aetherium—a lingering quietness that the Listeners can eventually detect.
+
+3. KEY CHARACTER: KAELEN
+
+    Background: Kaelen is a young man in his early twenties, living in the bustling mountain city of Silver-Chime. He was born profoundly deaf, unable to perceive the Aetherium's hum or perform traditional Song-Weaving. Ostracized by a society built on sound, he became a brilliant artificer, creating intricate clockwork mechanisms and non-magical tools.
+    The Discovery: While working late in his workshop, Kaelen accidentally drops a perfectly crafted, gear-driven sphere. For a fleeting moment before it shatters, its internal mechanisms create a complex pattern of interlocking movements that produce no sound, yet he feels a profound "lurch" in the world around him. A nearby Resonance Fork, used for tuning, cracks without making a sound.
+    Unique Ability: Kaelen realizes that he doesn't need to hear the Aetherium; he can feel its absence. His deafness, once a curse, gives him an unparalleled sensitivity to the "negative space" in the sonic world. He begins to replicate the effect, using precisely calibrated, silent clockwork devices—"Null-Engines"—to shape silence itself. He is, unknowingly, rediscovering Null-Weaving.
+    Motivation: Initially, his goal is purely one of discovery and a desire to finally wield the power his world denied him. He sees it not as a dark art, but as a different, more elegant form of control. He wants to prove that his silence is not a weakness, but a strength.
+
+4. PLOT SYNOPSIS: THE LISTENER'S HUNT
+
+    Inciting Incident: Kaelen creates his first functional Null-Engine, a small silver orb that can create a one-foot sphere of absolute silence. He uses it to silently disarm a malfunctioning steam-press in his workshop, saving his hands from being crushed. The act, however, creates a noticeable "scar" in Silver-Chime's Aetherium hum.
+    Rising Action:
+        A Listener named Lyra, a woman with unnaturally sharp hearing, arrives in Silver-Chime, tasked with investigating the Aetheric scar. She is methodical and relentless, believing Null-Weaving is an existential threat.
+        Kaelen refines his craft. He builds gauntlets that allow him to project silence, enabling him to "shatter" the lock on a rival artificer's safe to retrieve stolen schematics. This act creates a larger, more distinct scar.
+        Lyra closes in on Kaelen's workshop, using her sensitivity to the Aetherium's disturbance. She doesn't suspect the deaf artificer, instead investigating local Song-Weavers.
+        During a city festival, a dissonant Weaver accidentally unleashes a rogue sonic spell. To protect innocent bystanders, Kaelen instinctively uses his Null-Gauntlet to create a wide void, canceling the spell. The sudden, profound silence is felt by everyone in the plaza. Lyra witnesses this and realizes the source of the disturbance is Kaelen.
+    Climax: Lyra confronts Kaelen in his workshop. She attempts to subdue him with a powerful Binding-Chant, but Kaelen, immune to the sound, retaliates with Null-Weaving. The workshop becomes a battleground of sound and silence. Kaelen doesn't want to kill her; he tries to disable her Resonance Forks. Lyra, believing he is a monster like the Silent Monks of old, is prepared to use a lethal frequency. Kaelen is forced to make a choice: shatter her instruments, proving his control is precise, or shatter her, embracing the destructive path she fears. He chooses the former, disabling her and proving his intent is not destruction.
+    Falling Action:
+        Lyra, disarmed and shaken, sees that Kaelen is not a megalomaniac. He explains his perspective—that silence is a tool, like sound, and its nature is defined by the user.
+        The local Concordance authorities, alerted by the fight, arrive. Lyra, in a moment of decision, misdirects them, claiming the disturbance was a faulty Aetheric conduit, giving Kaelen time to escape.
+    Resolution: Kaelen flees Silver-Chime, now a fugitive but with a new purpose. He seeks to find a way to integrate silence and sound, believing that true mastery lies in understanding both. Lyra, her worldview shattered, begins to question the Concordance's dogma, creating a secret report about a new, controlled form of Null-Weaving. The story ends with Kaelen journeying towards the edge of the Ash-Lands, believing the secrets to controlling his power lie in the one place where silence reigns supreme.

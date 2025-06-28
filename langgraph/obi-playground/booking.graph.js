@@ -20,7 +20,6 @@ import {
   productTypeInstruction,
 } from "./utils/instructions.js";
 import { jsonParser } from "./utils/utils.js";
-import { parse } from "node:path";
 
 export const terminal = readline.createInterface({
   input: process.stdin,
@@ -115,7 +114,6 @@ const reserveStep = async (state) => {
 };
 
 const answerGeneral = async (state) => {
-  const userMessage = messageObj("user", state.input);
   const res = await llm.invoke(memory);
   const asistantMessage = messageObj("assistant", res.content);
   memory.push(asistantMessage);
@@ -245,8 +243,8 @@ graph.addNode("scheduleinfo", infoCollector);
 graph.addNode("contactinfo", contactHandler);
 graph.addNode("setcontact", setContactStep);
 graph.addNode("productend", productSuccess);
-graph.addNode("paymenthadnler", paymnenthadnler);
-graph.addNode("callapayment", callpayment);
+graph.addNode("paymenthadnler", () =>{});
+// graph.addNode("callapayment", callpayment);
 graph.addConditionalEdges(START, (state) => {
   return currentNode || "classify";
 });
@@ -268,10 +266,10 @@ graph.addConditionalEdges("contactinfo", (state) => {
   return state.done ? "setcontact" : "contactinfo";
 });
 
-graph.addEdge("setcontact", "paymnethadnler");
+graph.addEdge("setcontact", "paymenthadnler");
 
-graph.addConditionalEdges("paymenthadlnler", (state) => {
-  state.done ? "callpaymnet" : "paymenthadlnler";
+graph.addConditionalEdges("paymenthadnler", (state) => {
+  state.done ? "callpaymnet" : "paymenthadnler";
 });
 
 graph.addEdge("general", END);
