@@ -1,2 +1,1 @@
-This repo serves as a collection of projects created during the learning of certain topics.  
-I will be using it as a reference for projects that I can refer back to.
+This repository contains conceptual code written during AI learning sessions and serves as a personal reference for future projects.
